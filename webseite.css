@@ -1,0 +1,161 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #d3b9e9;
+  padding: 20px;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav table {
+  background-color: white;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+nav td {
+  padding: 10px 50px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.profile img {
+  float: right;
+  width: 250px;
+  height: 250px;
+}
+
+.overview{
+  text-align: center;
+}
+
+section.overview table {
+  background-color: white;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.intro-section {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.intro-section h2 {
+  font-size: 2em;
+}
+
+.intro-content {
+  background-color: #d3b9e9;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.intro-content p {
+  margin: 10px 0;
+}
+
+.intro-image img{
+  padding: 20px;
+  border-radius: 20%;
+}
+
+.projects {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.projects h2 {
+  font-size: 2em;
+}
+
+section.projects table {
+  background-color: white;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.centered-bullets {
+  text-align: center;
+}
+.centered-bullets ul {
+  display: inline-block;
+  text-align: left; 
+}
+
+footer {
+  background-color: #d3b9e9;
+  padding: 20px;
+}
+
+footer h2 {
+  font-size: 1.5em;
+}
+
+.contact-info {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: left;
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
+
+table {
+  color: rgb(14, 14, 14);
+  margin: 0 auto;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+table td {
+  padding: 10px 20px;
+}
+
+table a {
+  text-decoration: none;
+}

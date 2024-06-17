@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+}
+
+p {
+  color: green;
+}
+
+nav a{
+  text-decoration: none;
+}
+
+nav li{
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 20px;
+}
